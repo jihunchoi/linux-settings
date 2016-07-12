@@ -13,7 +13,6 @@ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
   * https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized
 * PuTTY
   * https://github.com/altercation/solarized/tree/master/putty-colors-solarized
-  * 
 
 ##### Solarized dircolors
 * https://github.com/seebi/dircolors-solarized
