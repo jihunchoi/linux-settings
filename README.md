@@ -16,5 +16,5 @@ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 ##### Solarized dircolors
 * https://github.com/seebi/dircolors-solarized
-* Save to ~/.dircolors/
+* Clone to ~/.dircolors/
 
