@@ -1,0 +1,7 @@
+[global]
+floatX = float32
+device = gpu
+mode = FAST_RUN
+
+[lib]
+cnmem = 1
