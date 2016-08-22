@@ -102,6 +102,3 @@ export PATH="/usr/local/cuda/bin:$PATH"
 export LD_LIBRARY_PATH="/usr/local/cuda/lib64:$LD_LIBRARY_PATH"
 
 export PATH="/home/jhchoi/anaconda3/bin:$PATH"
-
-# Theano settings
-export THEANO_FLAGS='device=gpu,lib.cnmem=1,mode=FAST_RUN'
