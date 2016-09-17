@@ -6,7 +6,6 @@ My minimal settings for Linux
 ##### Use it with solarized
 * GNOME Terminal
   * https://github.com/Anthony25/gnome-terminal-colors-solarized
-  * https://github.com/seebi/dircolors-solarized
 * iTerm
   * https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized
 * PuTTY
