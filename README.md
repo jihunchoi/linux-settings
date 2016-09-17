@@ -16,5 +16,4 @@ My minimal settings for Linux
 * or ```sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"```
 
 ##### Solarized dircolors
-* https://github.com/seebi/dircolors-solarized
-* Clone to ~/.dircolors/
+* ```git clone https://github.com/seebi/dircolors-solarized ~/.dircolors```
