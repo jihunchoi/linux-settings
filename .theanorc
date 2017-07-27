@@ -1,7 +1,0 @@
-[global]
-floatX = float32
-device = cuda
-mode = FAST_RUN
-
-[lib]
-cnmem = 1
