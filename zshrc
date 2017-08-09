@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/jhchoi/.oh-my-zsh
+  export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -83,7 +83,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-eval `dircolors /home/jhchoi/.dircolors/dircolors.256dark`
+eval `dircolors $HOME/.dircolors/dircolors.256dark`
 
 if [[ $TERM == xterm ]]; then
     export TERM=xterm-256color;
@@ -101,4 +101,4 @@ alias rm='rm -i'
 export PATH="/usr/local/cuda/bin:$PATH"
 export LD_LIBRARY_PATH="/usr/local/cuda/lib64:$LD_LIBRARY_PATH"
 
-export PATH="/home/jhchoi/anaconda3/bin:$PATH"
+export PATH="$HOME/anaconda3/bin:$PATH"
