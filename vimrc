@@ -60,4 +60,5 @@ inoremap jj <Esc>
 map <C-n> :NERDTreeToggle<CR>
 
 set background=dark
+let g:solarized_termtrans = 1
 colorscheme solarized
