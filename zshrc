@@ -101,4 +101,6 @@ alias rm='rm -i'
 export PATH="/usr/local/cuda/bin:$PATH"
 export LD_LIBRARY_PATH="/usr/local/cuda/lib64:$LD_LIBRARY_PATH"
 
-export PATH="$HOME/anaconda3/bin:$PATH"
+. $HOME/anaconda3/etc/profile.d/conda.sh
+
+source $HOME/.dotfiles/lib/zsh-autoenv/autoenv.zsh
