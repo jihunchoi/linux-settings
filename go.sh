@@ -18,6 +18,9 @@ install_oh_my_zsh
 # Solarized dircolors
 git clone https://github.com/seebi/dircolors-solarized $HOME/.dircolors
 
+# Install zsh-autoenv
+git clone https://github.com/Tarrasch/zsh-autoenv $HOME/.dotfiles/lib/zsh-autoenv
+
 # Copy configuration files
 cp -f ./zshrc $HOME/.zshrc
 cp -f ./vimrc $HOME/.vimrc
